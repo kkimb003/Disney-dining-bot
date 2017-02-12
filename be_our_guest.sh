@@ -3,7 +3,7 @@
 #infinite loop- to exit mover to terminal and press ctrl+c
 while true; do
 # move the mouse  x    y
-#moves the mouse to hover over "check availability" button
+#moves the mouse to hover over "search times" button
 		xdotool mousemove 930 607
 # left click on button
 		xdotool click 1
