@@ -63,7 +63,7 @@ while true; do
 			xdotool key 'c'
 			sleep 1
 #change to email you want sent to
-			xdotool type 'isabellagines94@gmail.com'
+			xdotool type 'example@gmail.com'
 			sleep 1
 			xdotool key 'Tab'
 			sleep 1
