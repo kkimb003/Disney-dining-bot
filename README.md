@@ -1,12 +1,14 @@
 ##Summary
-this code is for people who want to check to see if there are open availabilities at a particular disney restaurant then if there is an availability, send an alert to your email. if not, the program will wait 15 minutes before checking again. let me know if anyone has any suggestions on things Icould change, feedback is very apreciated :)
-there are a few steps we need to take before running this script.
+- this code is for people who want to check to see if there are open availabilities at a particular disney restaurant then if there is an availability, send an alert to your email. if not, the program will wait 15 minutes before checking again. let me know if anyone has any suggestions on things Icould change, feedback is very apreciated :)
+- there are a few steps we need to take before running this script.
 
 #Requirements:
-terminal that can run programs (I use linux terminal)
-internet connection/web browser (I used chrome)
+- terminal that can run programs (I use linux terminal)
+- internet connection/web browser (I used chrome)
 
-#WARNING: this script is a brute force aproach and some things need to be changed within the code before running and you will not be able to use this computer while it is running. so this is code for if you want it to run while you are out of the house or not using this computer. I am also assuming you have mediocre programming skills
+#WARNING: 
+this script is a brute force aproach and some things need to be changed within the code before running and you will not be able to use this computer while it is running. so this is code for if you want it to run while you are out of the house or not using this computer. I am also assuming you have mediocre programming skills
+
 #STEPS
 - 1. open a terminal and download xdotools package using `sudo apt-get install xdotool`
 - 2. open a seperate web browser, I used chrome on linux and do not know if the keyboard shortcuts are the same. we will be utilizing the **ctrl+shift+tab** to move between tabs on chrome, and **alt+tab** to move between the terminal and chrome
